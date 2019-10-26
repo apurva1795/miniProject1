@@ -7,12 +7,12 @@ Git is a distributed version control system (DVCS). This is very commonly used f
 Automated testing is also a very important tool in the industry. This helps many firms across the globe for a faster and efficient testing operation for its software. There are less chances of human error when testing for a specific software is done automatically. 
 
 Here's the list of Definitions:
-1. [Repository](definition1)
+1. [Repository](#definition1)
 
 
 
 Git Commands & Terminology
-1. (definition1)Repository: A repository is the most basic element of GitHub. It is basically your folder for the entire project. This folder will contain all you document, project file and each of its revision history. The repository can be public, so multiple collaborators can work on the same project under one repository. 
+1. (id=definition1)Repository: A repository is the most basic element of GitHub. It is basically your folder for the entire project. This folder will contain all you document, project file and each of its revision history. The repository can be public, so multiple collaborators can work on the same project under one repository. 
 
 2.	Clone:  A clone is a copy of the repository that is basically saved on your computer instead of on a website’s server. In this copy of your current repository you can edit files in your preferred editor and use Git to keep track of the changes made to the repository without having to being online.
 
