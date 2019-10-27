@@ -32,6 +32,8 @@ Here's the list of Definitions:
 Git Commands & Terminology
 1. <a name="definition1"></a>Repository: A repository is the most basic element of GitHub. It is basically your folder for the entire project. This folder will contain all you document, project file and each of its revision history. The repository can be public, so multiple collaborators can work on the same project under one repository.
 
+![Screenshot](repository1.png)
+
 2. <a name="definition2"></a>Clone:  A clone is a copy of the repository that is basically saved on your computer instead of on a website’s server. In this copy of your current repository you can edit files in your preferred editor and use Git to keep track of the changes made to the repository without having to being online.
 
 3. <a name="definition3"></a>Fork: A fork is a personal copy of another user’s repository that is basically in your account. This allows you to easily make changes without affecting the original repository. Additionally, this is also attached to the original repository. So, you can essentially submit a pull request to the author/owner of the repository to make update with your new implemented changes.
