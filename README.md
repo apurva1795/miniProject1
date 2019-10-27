@@ -1,7 +1,7 @@
 # IS601-851
-#Mini-Project # 1 
+# Mini-Project # 1 
 
-##Apurva Patel
+## Apurva Patel
 
 Git is a distributed version control system (DVCS). This is very commonly used for open source and commercial digital development. This system essentially allows every user to get access to every files and branches that have been made in the repository. It gives a user full access to all the changes that were made to the system and give him/her access to all history of the repository. In this system developers can work from basically anywhere in the world on a repository if they are the collaborators for that repository to make changes in it. This basically eliminates slower work environment by reducing unnecessary tasks. Docker is essentially a tool to design create, deploy and run applications. This helps many companies to maintain and store files in container. So, it not too difficult for a software developer to deploy an application. Developers can could store their files in the libraries to be used as in future reference. 
 Automated testing is also a very important tool in the industry. This helps many firms across the globe for a faster and efficient testing operation for its software. There are less chances of human error when testing for a specific software is done automatically. 
@@ -78,7 +78,7 @@ Merging bugFix branch into master branch
 •	Merge
 •	Deploy
 
-##Jenny George
+## Jenny George
 
 12. <a name="definition12"></a>**cd**:  Cd stands for “change directory”.  Cd switches you into the specific directly of your choosing as well as changing the working directory.  The cd command takes a directory name and then switches that to a different directory.  
 
