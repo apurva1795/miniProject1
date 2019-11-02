@@ -111,8 +111,42 @@ Merging bugFix branch into master branch
 |:---------|:-------|
 |11/02/2019|Index Links Added\||
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+
+|Date|	Details|
+|:---------|-------:|
+|11/09/2019|	Apurva added a committed a change log table added\||
+|11/09/2019|	Apurva added a committed a change log trial\||
+|11/09/2019|	Apurva updated change log section on Readme.md and committed\||
+|11/09/2019|	Apurva updated Index and update readme.md files with internal links\||
+|10/27/19|	Apurva updated, headers, texts and added a single image to test and then added all the images to the Readme.md file. Committed all the imaged to the file\||
+|10/26/2019|	Apurva changed the filed extension for readme file to .md\||
+|10/26/2019|	Apurva added the initial readme file to the repository\||
+|10/10/2019|	Jenny added and committed definition for using tab keys to complete files\||
+|10/10/2019|	Jenny added and committed definition for command path file\||
+|10/10/2019|	Jenny added and committed definition of the command home directory\||
+|10/10/2019|	Jenny added and committed definition of the command history\||
+|10/10/2019|	Jenny added and committed definition of the command rm\||
+|10/10/2019|	Jenny added and committed definition of the command mv\||	 
+|10/10/2019|	Jenny added and committed definition of the command pwd\||
+|10/10/2019|	Jenny added and committed definition of the command cp\||
+|10/10/2019|	Jenny added and committed definition of the command mkdir\||
+|10/10/2019|	Jenny added and committed definition of the command cd\||
+|10/10/2019|	Jenny added and committed definition\||
+|10/09/2019|	Apurva added a fix, added the answer to the primary question and committed\||
+|10/09/2019|	Apurva added and committed definition of the term Github flow\||
+|10/09/2019|	Apurva added and committed definition of the term status\||
+|10/09/2019|	Apurva added and committed definition of the term pull\||
+|10/09/2019|	Apurva added and committed definition of the term push\||
+|10/09/2019|	Apurva added and committed definition of the term checkout\||
+|10/09/2019|	Apurva added and committed definition of the term merge\||
+|10/09/2019|	Apurva added and committed definition of the term commit\||
+|10/09/2019|	Apurva added and committed definition of the term branch\||
+|10/09/2019|	Apurva added and committed definition of the term fork\||
+|10/09/2019|	Apurva added and committed definition of the term clone\||
+|10/09/2019|	Apurva added and committed definition of the term Repository\||
+|10/08/2019|	Apurva added and committed test added definition\||
+|10/08/2019|	Apurva performed the initial commit\||
+
+
+
 
