@@ -108,8 +108,11 @@ Merging bugFix branch into master branch
 <a name="Section4"></a>**Change Log**
 
 | Date     | Details|
-
 |:---------|:-------|
-
 |11/02/2019|Index Links Added\||
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
 
