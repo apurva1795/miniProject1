@@ -105,8 +105,11 @@ Merging bugFix branch into master branch
 
 9. **Using the tab key to complete the file paths**: The tab key allows for a user to automatically view commands that have been previously used. With this command, users are able to type a few letters and press tab which will allow the rest of the file name to automatically fill. 
 
-<a name="Section3"></a>**Change Log**
+<a name="Section4"></a>**Change Log**
 
+| Date     | Details|
 
+|:---------|:-------|
 
+|11/02/2019|Index Links Added\||
 
