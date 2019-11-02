@@ -3,11 +3,22 @@
 
 ## Apurva Patel
 
+# Index
+
+1. [Git, Docker, Automated Testing & Continuous Integration] (#Section1)
+2. [Git Commands & Terminology] (#Section2)
+3. [Basic Commands needed to to manage the file system] (#section3)
+4. [Change Log] (#Section4)
+
+
+<a name="Section1"></a>**Git, Docker, Automated Testing & Continuous Integration**
+
 Git is a distributed version control system (DVCS). This is very commonly used for open source and commercial digital development. This system essentially allows every user to get access to every files and branches that have been made in the repository. It gives a user full access to all the changes that were made to the system and give him/her access to all history of the repository. In this system developers can work from basically anywhere in the world on a repository if they are the collaborators for that repository to make changes in it. This basically eliminates slower work environment by reducing unnecessary tasks. Docker is essentially a tool to design create, deploy and run applications. This helps many companies to maintain and store files in container. So, it not too difficult for a software developer to deploy an application. Developers can could store their files in the libraries to be used as in future reference. 
 Automated testing is also a very important tool in the industry. This helps many firms across the globe for a faster and efficient testing operation for its software. There are less chances of human error when testing for a specific software is done automatically. 
 
 
-Git Commands & Terminology
+<a name="Section2"></a>**Git Commands & Terminology**
+
 1. **Repository**: A repository is the most basic element of GitHub. It is basically your folder for the entire project. This folder will contain all you document, project file and each of its revision history. The repository can be public, so multiple collaborators can work on the same project under one repository.
 
 ![Screenshot](repository1.png)
@@ -58,36 +69,44 @@ Merging bugFix branch into master branch
 
 ## Jenny George
 
-12. **cd**:  Cd stands for “change directory”.  Cd switches you into the specific directly of your choosing as well as changing the working directory.  The cd command takes a directory name and then switches that to a different directory.  
+<a name="Section3"></a>**Basic Commands needed to to manage the file system**
+
+1. **cd**:  Cd stands for “change directory”.  Cd switches you into the specific directly of your choosing as well as changing the working directory.  The cd command takes a directory name and then switches that to a different directory.  
 
 ![Screenshot](cd1.png)
 
-13. **Mkdir**:  mkdir is used to make a directory. We use it to create the directories that do not already exist.
+2. **Mkdir**:  mkdir is used to make a directory. We use it to create the directories that do not already exist.
 
 ![Screenshot](mkdir1.png)
 
-14. **Cp**:  This command is used to copy files in a directory. We use this command so we will be able to create an exact replica of the file with a different name. 
+3. **Cp**:  This command is used to copy files in a directory. We use this command so we will be able to create an exact replica of the file with a different name. 
 
 ![Screenshot](cp1.png)
 
-15. **Pwd**:  Pwd stands for print working directory. This command prints the working directory. Pwd is an environment which enables us to store the path. 
+4. **Pwd**:  Pwd stands for print working directory. This command prints the working directory. Pwd is an environment which enables us to store the path. 
 
 ![Screenshot](pwd1.png)
 
-16. **mv**. mv stands for move. This command moves one file from once place to another. We can also use this command to rename a folder.
+4. **mv**. mv stands for move. This command moves one file from once place to another. We can also use this command to rename a folder.
 
 ![Screenshot](mv1.png)
 
-17. **rm**: rm stands for remove. This command is used to remove files from different directories in Linux. 
+5. **rm**: rm stands for remove. This command is used to remove files from different directories in Linux. 
 
 ![Screenshot](rm1.png)
 
-18. **history**: The history command shows a list all commands that were executed previously since the session had began. We can use this to view those commands and prevent certain commands from being visible. 
+6. **history**: The history command shows a list all commands that were executed previously since the session had began. We can use this to view those commands and prevent certain commands from being visible. 
 
 ![Screenshot](history1.png)
 
-19. **home directory**: This command is used as a repository for the users personal files and programs. This directory is also called the login directory.
+7. **home directory**: This command is used as a repository for the users personal files and programs. This directory is also called the login directory.
 
-20. **File path**: This is a representation of the location of a file or folder on a computer system.
+8. **File path**: This is a representation of the location of a file or folder on a computer system.
 
-21. **Using the tab key to complete the file paths**: The tab key allows for a user to automatically view commands that have been previously used. With this command, users are able to type a few letters and press tab which will allow the rest of the file name to automatically fill. 
+9. **Using the tab key to complete the file paths**: The tab key allows for a user to automatically view commands that have been previously used. With this command, users are able to type a few letters and press tab which will allow the rest of the file name to automatically fill. 
+
+<a name="Section3"></a>**Change Log**
+
+
+
+
