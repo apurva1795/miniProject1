@@ -5,10 +5,10 @@
 
 # Index
 
-1. [Git, Docker, Automated Testing & Continuous Integration] (#Section1)
-2. [Git Commands & Terminology] (#Section2)
-3. [Basic Commands needed to to manage the file system] (#section3)
-4. [Change Log] (#Section4)
+1. ![Git, Docker, Automated Testing & Continuous Integration] (#Section1)
+2. ![Git Commands & Terminology] (#Section2)
+3. ![Basic Commands needed to to manage the file system] (#section3)
+4. ![Change Log] (#Section4)
 
 
 <a name="Section1"></a>**Git, Docker, Automated Testing & Continuous Integration**
