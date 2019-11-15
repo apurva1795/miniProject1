@@ -7,9 +7,9 @@
 
 1. [Git, Docker, Automated Testing & Continuous Integration](#Section1)
 2. [Git Commands & Terminology](#Section2)
-3. [Basic Commands needed to to manage the file system](#section3)
+3. [Basic Commands needed to to manage the file system](#Section3)
 4. [Change Log](#Section4)
-5. [Mini Project 2] (#Section5)
+5. [Mini Project 2](#Section5)
 
 
 <a name="Section1"></a>**Git, Docker, Automated Testing & Continuous Integration**
