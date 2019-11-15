@@ -9,6 +9,7 @@
 2. [Git Commands & Terminology](#Section2)
 3. [Basic Commands needed to to manage the file system](#section3)
 4. [Change Log](#Section4)
+5. [Mini Project 2] (#Section5)
 
 
 <a name="Section1"></a>**Git, Docker, Automated Testing & Continuous Integration**
@@ -144,6 +145,65 @@ Merging bugFix branch into master branch
 |10/08/2019|	Apurva added and committed test added definition|
 |10/08/2019|	Apurva performed the initial commit|
 
+<a name="Section5"></a>**Mini Project 2**
 
+1. **How Python uses Indentation to control Flow**: Indentation used in python is used to signify and delimit a scope. One or two white space characters are sufficient to serve as an indentation. There must be a uniform level of indentation associated with each block.
 
+![Screenshot](controlFlow1.png) 
+
+2. **Don't Repeat Yourself**: The Don’t Repeat Yourself principle states that there should be no duplication through abstraction. It is also good practice to not have unnecessary code to extend code and maintain software. 
+
+3. **Design Patterns from Gang of Four**: Most programmers come to the same certain design issue when implementing and creating code. Due to this there were design patterns that were created later called the gang of four. The different design patterns are creational patterns, structural patterns, and behavioral patterns. 
+
+4. **Class**: A class is a guide to create an object and they are created by the keyword class. 
+
+![Screenshot](class1.png)
+
+5. **Object**: An object is an instance of a class and is created usually using the constructor of the class. 
+
+![Screenshot](object1.png)
+
+6. **Static**: The word static means the members are associated on a class level. They are not associated on an instance level and are not instantiated.
+
+![Screenshot](static1.png)
+
+7. **Property / Attribute**: Attributes in Python are used to associate and describe different variables. Different associations could be getters, setters, and delete methods along with the property function. 
+
+![Screenshot](property1.png)
+
+8. **Method**: A method belongs to an object in Python. Objects are also capable of having methods. Certain types of objects are insert, remove, and sort. Different types of instance objects vary upon its class.
+
+![Screenshot](method1.png)
+
+9. **Exception**: An exception in Python disrupts the flow of the program as a whole. When an error occurs in Python an exception is thrown to keep the balance of the program in a situation where it is unable to handle the error. 
+
+![Screenshot](exception1.png)
+
+10. **Unit Test**: Unit testing is general level of software testing involved with testing small pieces or “units” of code to ensure for functionality and proper testing practices. This is also referred to as white box testing. 
+
+![Screenshot](unitTest1.png)
+
+11. **Constructor**: A constructor instantiates an object using various definitions found in a class. The constructor assigns values to any instance variable that the object will need to perform its designated tasks. 
+
+![Screenshot](constructor1.png)
+
+12. **Factory**: Factory method requires implementing a creational design pattern which solves different problems associated with objects without specifying their concrete class.
+
+![Screenshot](factory1.png) 
+
+13. **Decorator**: A decorator allows a user to modify their code and implementing more to its functionality rather than modifying its structure. They can be called before the definition that would need to be modified.
+
+![Screenshot](decorator1.png)
+
+14. **Extend Class**: There is an aspect that allows you to extend a class that is already existing. This is needed to add new functionality or new meaning to classes that already exist. 
+
+![Screenshot](extendedClass1.png)
+
+15. **CSV Files**: CSV file can be used during unit testing and contains a certain amount of data that can be passed through the program as inputs to test if the program is outputting the correct functionality as expected. It is implemented using reader object. 
+
+![Screenshot](CSVfile1.png)
+
+16. **Reading Files**: The reading file is used to read data from an excel sheet or other file. In python, the program can be written to read the data from the reading files but no manipulation or editing can occur. 
+
+![Screenshot](readingFile1.png)
 
